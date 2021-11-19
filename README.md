@@ -1,4 +1,4 @@
-# Stanford CS246 
+# Stanford CS246 海量数据挖掘 
 海量数据挖掘  <br>
 课程笔记，作业和Colab 不定时更新 flag是寒假之前更完。<br>
 所有代码运行环境为Google Colab <br>
